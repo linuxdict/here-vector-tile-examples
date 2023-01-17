@@ -6,6 +6,9 @@ For more information on the HERE Vector Tile Service, please visit the [official
 
 ![triple map view](maps.png)
 
+aws_access_key_id  = 'AKIAIOSFODNN7EXAMPLE'
+aws_secret_access_key = 'wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY'
+
 _From left to right: Berlin night (Mapbox GL JS), Berlin day (Tangram JS)._
 
 ## Renderers
